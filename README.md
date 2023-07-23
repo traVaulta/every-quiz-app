@@ -11,6 +11,6 @@ Interchangeable between frontend and backend projects, applicable to microservic
 
 GPL3.0 License
 
-Copyright Ⓒ  2022 Matija Čvrk
+Copyright Ⓒ  2023 Matija Čvrk
 
 Please consider promoting this project if you find it useful.
