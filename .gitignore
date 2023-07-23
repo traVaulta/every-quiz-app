@@ -1,0 +1,28 @@
+# General .gitignore template
+
+## Build output directories (extend list below)
+target/
+dist/
+cache/
+build/
+bin/
+
+## Workspace related folders for IDEs supported
+
+### Jetbrains IDEs
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code
+.vscode/
+
+## Environment files
+
+.env.local
+.env.development
+
+## Compilation or dependency cache
+
+## Misc
